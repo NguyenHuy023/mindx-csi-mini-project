@@ -1,4 +1,4 @@
-aiobotocore @ file:///C:/Users/task_178160224398447/croot/aiobotocore_1781603011950/work
+aiobotocore
 aiodns @ file:///C:/Users/task_177209691410802/croot/aiodns_1772096977984/work
 aiohappyeyeballs @ file:///C:/Users/task_178064714204117/croot/aiohappyeyeballs_1780647334672/work
 aiohttp @ file:///C:/Users/task_178213687210830/croot/aiohttp_1782136996696/work
