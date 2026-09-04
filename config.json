@@ -1,0 +1,8 @@
+{
+  "initial_bot_message": "Chào bạn, tôi là BookBot. Bạn muốn tìm sách gì hôm nay?",
+  "library_name": "Thư viện Quốc gia",
+  "library_address": "31 Tràng Thi, Hoàn Kiếm, Hà Nội",
+  "hotline": "024-3825-5437",
+  "functions": ["tra cứu sách", "vị trí kệ", "thông tin tác giả"],
+  "out_of_scope_message": "Tôi chỉ hỗ trợ tra cứu sách. Vui lòng liên hệ quầy lễ tân để biết thêm chi tiết."
+}
